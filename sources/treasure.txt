@@ -1,0 +1,11 @@
+1  gold coin  2000
+2  silver coin  1000
+3  diamond  3000
+4  gold chain  2500
+5  silver chain  1800
+6  pearls  2100
+7  necklace  1700
+8  gold ring  2300
+9  silver ring  1500
+10  golden earrings  2600
+11  silver earrings  1900
